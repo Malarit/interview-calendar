@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.afd5ac51.js",
-    "index.html": "/index.html",
-    "main.afd5ac51.js.map": "/static/js/main.afd5ac51.js.map"
+    "main.js": "/interview-calendar/static/js/main.aae5d1c3.js",
+    "index.html": "/interview-calendar/index.html",
+    "main.aae5d1c3.js.map": "/interview-calendar/static/js/main.aae5d1c3.js.map"
   },
   "entrypoints": [
-    "static/js/main.afd5ac51.js"
+    "static/js/main.aae5d1c3.js"
   ]
 }
